@@ -8,6 +8,9 @@
             "Can start an [8]-turn golden age",
             "Bonus for units in 2 tile radius 15%",
 			"Heal adjacent units for an additional 15 HP per turn", 
+            "+1 Sight when embarked",
+            "Units pay only 1 movement point to embark and disembark",
+            "Double movement in [Coast]",
             "Can construct [Citadel]", 
             "Great Person - [War]", "Unbuildable"
         ],

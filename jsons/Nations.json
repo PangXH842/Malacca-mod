@@ -21,14 +21,16 @@
 				
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
-		"uniqueName": "Selat Melaka",
-		"uniques": ["[+1 Gold], [+1 Culture], [+1 Faith] from each Trade Route"],
+		"uniqueName": "Strait of Malacca",
+		"uniques": ["[+1 Gold], [+1 Culture], [+1 Faith] from each Trade Route",
+            "Gifts of Gold to City-States generate [10]% more Influence"],
 		"cities": [
-            "Malacca","Singapura","Kuala Lumpur","Johor Bharu","Muar",
-            "Klang","Gunung Ledang","Shah Alam","Georgetown","Seberang Perai",
-            "Ipoh","Pulau Pangkor","Alor Setar","Pulau Langkawi","Kuantan",
-            "Seremban","Putrajaya","Cyberjaya","Kota Bahru","Kangar",
-            "Pulau Pangkor","Sepang"
+            "Malacca","Singapura","Kuala Lumpur","Johor Bahru","Klang",
+            "Muar","Shah Alam","Putrajaya","Georgetown","Ipoh",
+            "Alor Setar","Kuantan","Pulau Langkawi","Seberang Perai","Seremban",
+            "Kota Bahru","Kangar","Kuala Terengganu","Cyberjaya",
+            "Sepang","Port Dickson","Pattani","Petaling Jaya","Kota Tinggi",
+            "Pasir Gudang","Tanah Rata","Raub","Subang Jaya","Pulau Pangkor"
         ]
 	}
 ]
