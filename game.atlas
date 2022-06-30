@@ -5,22 +5,22 @@ filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 NationIcons/Malacca
   rotate: false
-  xy: 6, 22
-  size: 100, 100
+  xy: 0, 0
+  size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Laksamana
   rotate: false
-  xy: 206, 22
-  size: 100, 100
+  xy: 200, 0
+  size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Pelabuhan
   rotate: false
-  xy: 406, 22
-  size: 100, 100
+  xy: 400, 0
+  size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1

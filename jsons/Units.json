@@ -6,13 +6,13 @@
 		"replaces": "Great General",
 		"uniques": [
             "Can start an [8]-turn golden age",
-            "Bonus for units in 2 tile radius 15%",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
 			"Heal adjacent units for an additional 15 HP per turn", 
             "+1 Sight when embarked",
             "Units pay only 1 movement point to embark and disembark",
             "Double movement in [Coast]",
             "Can construct [Citadel]", 
-            "Great Person - [War]", "Unbuildable"
+            "Great Person - [War]", "Unbuildable", "Uncapturable"
         ],
 		"movement": 2
 	}
