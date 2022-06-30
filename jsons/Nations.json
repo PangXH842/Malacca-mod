@@ -22,7 +22,7 @@
 		"outerColor": [1,0,138],
 		"innerColor": [254,215,0],
 		"uniqueName": "Strait of Malacca",
-		"uniques": ["[+1 Gold], [+1 Culture], [+1 Faith] from each Trade Route",
+		"uniques": ["[+1 Gold, +1 Culture, +1 Faith] from each Trade Route",
             "Gifts of Gold to City-States generate [10]% more Influence"],
 		"cities": [
             "Malacca","Singapura","Kuala Lumpur","Johor Bahru","Klang",
