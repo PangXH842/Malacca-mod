@@ -1,0 +1,26 @@
+game.png
+size: 600,200
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Malacca
+  rotate: false
+  xy: 6, 22
+  size: 100, 100
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Laksamana
+  rotate: false
+  xy: 206, 22
+  size: 100, 100
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pelabuhan
+  rotate: false
+  xy: 406, 22
+  size: 100, 100
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

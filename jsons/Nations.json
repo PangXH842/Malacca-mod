@@ -6,21 +6,21 @@
 		"startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
-		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Greatest respects to you, Parameswara, Shah of Singapura and founder of the Malacca Sultanate! Retreating from invading forces in Singapura, you've led your subjects to a peaceful fishing village, which you bestowed the name of Malacca. Owing to its strategic location and your wise rule, Malacca emerged as a center of trade, attracting traders from China, Persia, Arabia and even Europe. After your passing, Malacca had developed into a major hub for trading and religious studies in the region, expanding its influence across the Malay Peninsula and Sumatra at the height of its power, and is the pride of all Malaysians to this day.",
+		"startIntroPart2": "O Supreme Lord, your people yearn for prosperity, uniting people from within and beyond. Will you bring both economic and spiritual enlightenment to your nation? Can you create a civilization that will stand the test of time?",
 		
-		"declaringWar": "The demon wants the blood of soldiers!",
-		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"declaringWar": "We cannot tolerate your aggressions anymore. Prepare.",
+		"attacked": "Our brave warriors will repel your aggressions at all costs!",
+		"defeated": "You may have defeated me, but Malacca shall stand for ages to come!",
+		"introduction": "A pleasure to meet you. I am Parameswara, ruler of Malacca and the Malay realm.",
 		
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
+		"neutralHello": "How are you today?",
+		"hateHello": "What are you here for?",
 		
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "How do you think about this offer?",
 				
-		"outerColor": [27,53,63],
-		"innerColor": [213,249,255],
+		"outerColor": [1,0,138],
+		"innerColor": [254,215,0],
 		"uniqueName": "Strait of Malacca",
 		"uniques": ["[+1 Gold], [+1 Culture], [+1 Faith] from each Trade Route",
             "Gifts of Gold to City-States generate [10]% more Influence"],
