@@ -4,7 +4,7 @@ Planned Malacca Sultanate mod for yarim210's Unciv game.
 ## Parameswara of Malacca
 Malacca Sultanate led by Parameswara.
 
-Start bias: Coast, Avoid Tundra, Avoid Snow.
+Start bias: Coast, Avoid Tundra.
 
 #### Unique Ability: Strait of Malacca
 +1 Gold, +1 Culture, +1 Faith from every Trade Route. Gifting Gold to a City State generates 10% more Influence.

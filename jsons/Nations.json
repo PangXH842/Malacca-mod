@@ -3,7 +3,7 @@
 		"name": "Malacca",
 		"leaderName": "Parameswara",
 		"adjective": ["Malaccan"],
-		"startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
+		"startBias": ["Coast","Avoid [Tundra]"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Greatest respects to you, Parameswara, Shah of Singapura and founder of the Malacca Sultanate! Retreating from invading forces in Singapura, you've led your subjects to a peaceful fishing village, which you bestowed the name of Malacca. Owing to its strategic location and your wise rule, Malacca emerged as a center of trade, attracting traders from China, Persia, Arabia and even Europe. After your passing, Malacca had developed into a major hub for trading and religious studies in the region, expanding its influence across the Malay Peninsula and Sumatra at the height of its power, and is the pride of all Malaysians to this day.",
