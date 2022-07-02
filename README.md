@@ -14,3 +14,6 @@ Unlocked at Compass, replaces Harbor. +1 Gold from Coast tiles in this City, -1 
 
 #### Unique Unit: Laksamana
 Replaces Great General. +1 Sight when embarked, pay only 1 movement point to embark and disembark. Double movement in Coast.
+
+## Notes
+Help needed to replace Kuala Lumpur and Singapore City State in Vanilla and GnK Base rulesets! Thanks for supporting my first repo on Github! 
