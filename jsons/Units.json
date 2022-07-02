@@ -8,7 +8,7 @@
             "Can start an [8]-turn golden age",
             "[+15]% Strength bonus for [Military] units within [2] tiles",
             "+1 Sight when embarked",
-            "Units pay only 1 movement point to embark and disembark",
+            "[1] Movement point cost to embark and disembark",
             "Double movement in [Coast]",
             "Can construct [Citadel]", 
             "Great Person - [War]", "Unbuildable", "Uncapturable"
