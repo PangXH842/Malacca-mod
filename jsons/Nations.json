@@ -7,7 +7,7 @@
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Greatest respects to you, Parameswara, Shah of Singapura and founder of the Malacca Sultanate! Retreating from invading forces in Singapura, you've led your subjects to a peaceful fishing village, which you bestowed the name of Malacca. Owing to its strategic location and your wise rule, Malacca emerged as a center of trade, attracting traders from China, Persia, Arabia and even Europe. After your passing, Malacca had developed into a major hub for trading and religious studies in the region, expanding its influence across the Malay Peninsula and Sumatra at the height of its power, and is the pride of all Malaysians to this day.",
-		"startIntroPart2": "O Supreme Lord, your people yearn for prosperity, uniting people from within and beyond. Will you bring both economic and spiritual enlightenment to your nation? Can you create a civilization that will stand the test of time?",
+		"startIntroPart2": "O Supreme Lord, your people yearn for prosperity, uniting people from within and beyond. Will you bring economic wealth and spiritual enlightenment to your nation? Can you create a civilization that will stand the test of time?",
 		
 		"declaringWar": "We cannot tolerate your aggressions anymore. Prepare.",
 		"attacked": "Our brave warriors will repel your aggressions at all costs!",
@@ -32,5 +32,29 @@
             "Sepang","Port Dickson","Pattani","Petaling Jaya","Kota Tinggi",
             "Pasir Gudang","Tanah Rata","Raub","Subang Jaya","Pulau Pangkor"
         ]
+	},
+	{
+		"name": "Bandar Brunei",
+		"adjective": ["Bruneian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [252,227,0],
+		"cities": ["Bandar Brunei"]
+	},
+	{
+		"name": "Kuching",
+		"adjective": ["Sarawakian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [156,63,30],
+		"cities": ["Kuching"]
 	}
 ]
