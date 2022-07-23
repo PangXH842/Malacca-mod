@@ -23,7 +23,8 @@
 		"innerColor": [254,215,0],
 		"uniqueName": "Strait of Malacca",
 		"uniques": ["[+1 Gold, +1 Culture, +1 Faith] from each Trade Route",
-			"[+10% Gold, +10% Culture] [in all cities connected to capital]",
+			"[+10]% Gold [in all cities connected to capital]", 
+			"[+10]% Culture [in all cities connected to capital]",
 			"Resting point for Influence with City-States is increased by [10] <after discovering [Compass]>"],
 		"cities": [
             "Malacca","Singapura","Kuala Lumpur","Johor Bahru","Klang",
