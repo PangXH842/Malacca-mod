@@ -10,9 +10,9 @@
 		"startIntroPart2": "O Supreme Lord, your people yearn for prosperity, uniting people from within and beyond. Will you bring economic wealth and spiritual enlightenment to your nation? Can you create a civilization that will stand the test of time?",
 		
 		"declaringWar": "We cannot tolerate your aggressions anymore. Prepare.",
-		"attacked": "Our brave warriors will repel your aggressions at all costs!",
+		"attacked": "Your troops are no match for our wise and valiant commanders.",
 		"defeated": "You may have defeated me, but Malacca shall stand for ages to come!",
-		"introduction": "A pleasure to meet you. I am Parameswara, ruler of Malacca and the Malay realm.",
+		"introduction": "Peace be with you. You stand before Parameswara, ruler of Malacca and the Malay realm.",
 		
 		"neutralHello": "How are you today?",
 		"hateHello": "What are you here for?",
@@ -23,12 +23,13 @@
 		"innerColor": [254,215,0],
 		"uniqueName": "Strait of Malacca",
 		"uniques": ["[+1 Gold, +1 Culture, +1 Faith] from each Trade Route",
-            "Gifts of Gold to City-States generate [10]% more Influence"],
+			"[+10% Gold, +10% Culture] [in all cities connected to capital] [in all coastal cities]",
+			"Resting point for Influence with City-States is increased by [10] <after discovering [Compass]>"],
 		"cities": [
             "Malacca","Singapura","Kuala Lumpur","Johor Bahru","Klang",
-            "Muar","Shah Alam","Putrajaya","Georgetown","Ipoh",
-            "Alor Setar","Kuantan","Pulau Langkawi","Seberang Perai","Seremban",
-            "Kota Bahru","Kangar","Kuala Terengganu","Cyberjaya",
+            "Georgetown","Putrajaya","Ipoh","Shah Alam","Muar",
+            "Alor Setar","Kuantan","Seremban","Kota Bahru","Kuala Terengganu",
+            "Kangar","Cyberjaya","Pulau Langkawi","Seberang Perai",
             "Sepang","Port Dickson","Pattani","Petaling Jaya","Kota Tinggi",
             "Pasir Gudang","Tanah Rata","Raub","Subang Jaya","Pulau Pangkor"
         ]
@@ -46,8 +47,8 @@
 		"cities": ["Bandar Brunei"]
 	},
 	{
-		"name": "Kuching",
-		"adjective": ["Sarawakian"],
+		"name": "Langkasuka",
+		"adjective": ["Langkasuka"],
 		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -55,6 +56,6 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [156,63,30],
-		"cities": ["Kuching"]
+		"cities": ["Langkasuka"]
 	}
 ]
