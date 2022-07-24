@@ -15,8 +15,6 @@
             "Can construct [Citadel]", 
             "Great Person - [War]", "Unbuildable", "Uncapturable"
         ],
-        "if":{"base-ruleset": "RekMOD"},
-		"then": {"movement": 4},
-        "else": {"movement": 2}
+        "movement": 2
 	}
 ]
