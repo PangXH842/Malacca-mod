@@ -1,6 +1,6 @@
 [
     {
-        "name": "Pelabuhan",
+        "name": "Entrepot",
 		"replaces": "Harbor",
 		"uniqueTo": "Malacca",
         "cost": 120,
