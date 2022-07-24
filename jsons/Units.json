@@ -14,7 +14,6 @@
             "All adjacent [Water] units heal [+15] HP when healing",
             "Can construct [Citadel]", 
             "Great Person - [War]", "Unbuildable", "Uncapturable"
-        ],
-		"movement": 2
+        ]
 	}
 ]
