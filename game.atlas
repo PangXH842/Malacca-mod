@@ -17,7 +17,7 @@ UnitIcons/Laksamana
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Pelabuhan
+BuildingIcons/Entrepot
   rotate: false
   xy: 225, 5
   size: 100, 100
