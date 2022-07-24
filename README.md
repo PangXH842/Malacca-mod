@@ -7,7 +7,7 @@ Malacca Sultanate led by Parameswara.
 Start bias: Coast
 
 #### Unique Ability: Strait of Malacca
-+1 Gold, +1 Culture, +1 Faith from every Trade Route. +10% Gold, +10% Culture in all coastal cities connected to the capital. Resting point for city states increase by 10 after researching Compass.
++1 Gold, +1 Culture, +1 Faith from every Trade Route. Resting point for city states increase by 10 after researching Compass.
 
 #### Unique Building: Pelabuhan
 Unlocked at Compass, replaces Harbor. +1 Gold from Coast tiles in this City, -1 Gold from Ocean tiles in this city. +1 Faith from Coast tiles before Navigation, +1 Culture from Coast tiles after Navigation.
